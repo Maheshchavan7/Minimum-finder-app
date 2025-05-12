@@ -1,0 +1,15 @@
+*{
+    background-color: aqua;
+}
+
+h1{
+    color: rgb(255, 132, 0)
+}   
+
+h2{
+    color: black;
+}
+input{
+    color: rgb(5, 61, 245);
+    background-color: azure;
+}
